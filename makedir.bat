@@ -1,0 +1,3 @@
+mkdir arquivos
+
+mkdir convertidos
