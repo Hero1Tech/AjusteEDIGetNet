@@ -1,4 +1,5 @@
 # Como usar o programa?
+[![Download](https://img.shields.io/badge/Download-Zip-blue.svg)](https://codeload.github.com/Hero1Tech/AjusteEDIGetNet/zip/refs/heads/main)
 
 **Passo 1:**
 
